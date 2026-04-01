@@ -52,5 +52,5 @@ Install required libraries: pandas, numpy, matplotlib, seaborn
 Load dataset using pd.read_csv()
 Run Jupyter Notebook / Python script
 📬 Contact
-GitHub:
+GitHub:akashkashyap000
 LinkedIn: www.linkedin.com/in/akash-kashyap-1357a3321
