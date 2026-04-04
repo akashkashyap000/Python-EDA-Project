@@ -3,6 +3,7 @@ Performed Exploratory Data Analysis (EDA) on Diwali Sales dataset
 Analyzed customer behavior, sales trends, and purchasing patterns
 Objective: Identify key factors influencing sales during festive season
 
+
 🎯 Objectives
 Understand customer demographics (age, gender, marital status)
 Identify top-performing states and product categories
